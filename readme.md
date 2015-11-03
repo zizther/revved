@@ -39,8 +39,8 @@ Add a rev-manifest file in the document root of your project.
 
 Manifest file example.
 
-```
+`
 {
     "css/main.css": "css/main-a9961d38.css",
     "js/main.js": "js/main-786087f7.js"
-}```
+}`
