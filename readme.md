@@ -20,7 +20,6 @@ You should create your rev-manifest.json file in the DOCUMENT_ROOT or above the 
 Note: If the plugin can't find your manifest file, it will throw an error.
 
 ## Example:
-----------------
 `{exp:revved file="css/styles.css"}`
 
 or
@@ -29,7 +28,6 @@ or
 
 
 ## Parameters:
-----------------
 `file=""`
 
 The file to get the revved version for.
@@ -37,7 +35,6 @@ It must match the file path in the rev-manifest file.
 
 
 ## Manifest file:
-----------------
 Add a rev-manifest file in the document root of your project.
 
 Manifest file example.
